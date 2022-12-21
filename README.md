@@ -1,5 +1,5 @@
 # JavaScript_Project_Whack_a_mole
-This is project built using JavaScript , HTML and CSS .\\
+This is project built using JavaScript , HTML and CSS .<br/>
 Working Link of the project    - https://javascript-whack-a-mole-project.netlify.app/
 
 UI of the project 

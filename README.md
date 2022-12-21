@@ -3,4 +3,6 @@ This is project built using JavaScript , HTML and CSS .<br/>
 Working Link of the project    - https://javascript-whack-a-mole-project.netlify.app/
 
 UI of the project 
+
+
 ![image](https://user-images.githubusercontent.com/60139552/208921845-5b1e3e21-98f5-4cf1-8797-ca9372d83d6f.png)
